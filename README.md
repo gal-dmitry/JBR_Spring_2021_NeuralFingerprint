@@ -1,5 +1,6 @@
 # NeuralFingerprint
 Задание 2
+
 Результаты в файле VISUALIZATION_2
 
 - Python 3.7
