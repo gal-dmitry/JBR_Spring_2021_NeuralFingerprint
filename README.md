@@ -1,7 +1,7 @@
 # NeuralFingerprint
-Задание 2
+**Задание 2**
 
-Результаты в файле VISUALIZATION_2
+Результаты в файле `VISUALIZATION_2`
 
 - Python 3.7
 - конвертация с помощью 2to3
