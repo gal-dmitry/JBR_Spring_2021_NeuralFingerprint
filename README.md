@@ -1,4 +1,7 @@
 # NeuralFingerprint
+
+[Original repo](https://github.com/HIPS/neural-fingerprint)
+
 **Задание 2**
 
 Результаты в файле `VISUALIZATION_2.ipynb`
